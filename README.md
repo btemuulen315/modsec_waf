@@ -1,2 +1,5 @@
 # modsec_waf
-install waf
+Ubuntu
+sudo -i
+chmod +x install.sh
+./install.sh
