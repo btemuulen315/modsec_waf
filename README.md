@@ -1,5 +1,5 @@
 # modsec_waf
-Ubuntu
-sudo -i
-chmod +x install.sh
+Ubuntu \n
+sudo -i \n
+chmod +x install.sh \n
 ./install.sh
